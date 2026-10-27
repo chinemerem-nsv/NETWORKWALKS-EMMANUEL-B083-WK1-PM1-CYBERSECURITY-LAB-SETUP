@@ -1,0 +1,2 @@
+# NETWORKWALKS-EMMANUEL-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
+WK1-PM1: VirtualBox and Kali Linux Cybersecurity Lab Setup
