@@ -50,8 +50,6 @@ I tested the connection to the virtual gateway, checked internet reachability by
 
 ![Gateway connectivity test](screenshots/04-kali-gateway-connectivity.png)
 
-![Internet and DNS verification](screenshots/05-kali-internet-and-dns.png)
-
 ### DNS Troubleshooting
 
 Initially, Kali could reach the gateway, but domain names could not be resolved. I updated the DNS servers in the NetworkManager profile and reactivated the connection.
